@@ -1,4 +1,5 @@
 
+<<<<<<< HEAD
 📊 Predicting Price Moves with News Sentiment
 
 Nova Financial Solutions – AI Mastery Week 1 Challenge
@@ -148,3 +149,5 @@ GitHub: https://github.com/debrouilard
 
 ✔ Task 2: In Progress
 ⏳ Task 3: Pending (Sentiment + Correlation Analysis)
+=======
+>>>>>>> task-1
