@@ -139,6 +139,12 @@ GitHub: https://github.com/debrouilard
 
 📌 Status
 
-✔ Task 1: Completed
+## Task 1 Completed
+
+- Descriptive statistics of headlines
+- Publisher analysis
+- Topic modeling using TF-IDF/LDA
+- Time series analysis of news volume
+
 ✔ Task 2: In Progress
 ⏳ Task 3: Pending (Sentiment + Correlation Analysis)
