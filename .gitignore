@@ -1,0 +1,47 @@
+# =========================
+# VIRTUAL ENVIRONMENT
+# =========================
+venv/
+env/
+ENV/
+
+# =========================
+# PYTHON CACHE
+# =========================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# =========================
+# JUPYTER NOTEBOOK CHECKPOINTS
+# =========================
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# =========================
+# SYSTEM FILES
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# VS CODE SETTINGS
+# =========================
+.vscode/
+
+# =========================
+# LOG FILES
+# =========================
+.log
+
+# =========================
+# ENVIRONMENT VARIABLES (if used later)
+# =========================
+.env
+
+# =========================
+# LARGE DATA FILES (ONLY IF NEEDED)
+# =========================
+# Uncomment ONLY if you are NOT submitting datasets via GitHub
+data/raw/
